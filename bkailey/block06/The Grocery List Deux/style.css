@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="style.css" /> 
+        <title>My Very Organized Grocery List</title>
+    </head>
+<body>
+    <h1 align="center">My Very Organized Grocery List</h1>
+
+    <div class="box1">
+        <h2>PANTRY ITEMS</h2>
+    </div>
+    
+    <div class="box2">
+        <h3>CANNED GOODS
+          <ul>
+            <li>Corn</li>
+            <li>Tuna</li>
+            <li>Green Beans</li>
+            <li>Beans></li>
+          </ul>
+        </h3>
+    </div>
+
+    <div class="box3">
+        <h3>DRY GOODS
+            <ul>
+                <li>Rice</li>
+                <li>Lentils</li>
+                <li>Oats</li>
+                <li>Pancake Mix></li>
+            </ul>
+        </h3> 
+    </div>
+    
+    <div class="img1">
+    <img src="https://thumbs.dreamstime.com/z/pantry-full-food-staples-atlanta-georgia-%C3%A2%E2%82%AC-march-photo-well-stocked-ready-winter-51650501.jpg"
+        alt="pantry"
+        width="300"
+        height="250" />
+    </div>
+
+    <div class="box4">
+        <h2>FREEZER ITEMS</h2>
+    </div>
+
+    <div class="box5">
+        <h3>VEGGIES
+            <ol>
+                <li>Broccoli</li>
+                <li>Carrots</li>
+                <li>Cauliflower</li>
+                <li>Bell Pepper</li>
+            </ol>
+        </h3>
+    </div>
+
+    <div class="box6">
+        <h3>SNACKS
+            <ol>
+                <li>Chicken Nuggets</li>
+                <li>Hot Pockets</li>
+                <li>Fries</li>
+                <li>Tater Tots</li>
+            </ol>
+        </h3>
+    </div>
+
+    <div class="img2">
+        <img src="https://thumbs.dreamstime.com/z/stir-fry-vegetables-frozen-roasted-chicken-food-plastic-container-veggies-healthy-freezer-tray-81348879.jpg"
+           alt="Freezer"
+           width="300"
+           height="250" />
+    </div>
+
+    
+    
+    
+          
+     
+    
+
+</body>
+</head>
+</html>
